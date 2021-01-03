@@ -4,5 +4,6 @@ public class Test00001 {
         System.out.println("Hello");
         System.out.println("World");
         System.out.println("Takoyaki");
+        System.out.println("Wasabi");
     }
 }
