@@ -3,5 +3,6 @@ public class Test00001 {
         //output text
         System.out.println("Hello");
         System.out.println("World");
+        System.out.println("Takoyaki");
     }
 }
